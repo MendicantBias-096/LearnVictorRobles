@@ -1,0 +1,6 @@
+[submodule "PowerShellPersonalSettings"]
+	path = PowerShellPersonalSettings
+	url = git@github.com:MendicantBias-096/PowerShellPersonalSettings.git
+[submodule "Master-PHP-VR"]
+	path = Master-PHP-VR
+	url = git@github.com:MendicantBias-096/Master-PHP-VR.git
